@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/googleSearchConsole-fffafa.svg?logo=googleSearchConsole&style=for-the-badge" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&layout=compact" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&layout=compact" /> -->
 
 
 <img src="https://github.com/user-attachments/assets/372d1138-d77b-4a19-b31e-8d047dc06587" width="100px" />
